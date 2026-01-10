@@ -1,4 +1,4 @@
-# Drivetrain-and-powertrain-
+# Drivetrain-and-powertrain
 Here i am working on basics and technology parts of powertrain working on EVs
 Drivetrain and Powertrain in Electric Vehicles
 
@@ -36,7 +36,7 @@ here are given below 👇 about things mentioned above
 
 ---
 
-What is Powertrain?
+**What is Powertrain?**
 
 The powertrain is the system that produces and controls power and sends it to the wheels.
 
@@ -54,12 +54,11 @@ Transmission (if used)
 
 
 Simple meaning:
-Powertrain = Power source + Power control + Power delivery
-
+*Powertrain = Power source + Power control + Power delivery*
 
 ---
 
-What is Drivetrain?
+**What is Drivetrain?**
 
 The drivetrain is the system that transfers mechanical power from the motor to the wheels.
 
@@ -75,14 +74,14 @@ Wheels
 
 
 Simple meaning:
-Drivetrain = Transfers motor power to wheels
+*Drivetrain = Transfers motor power to wheels*
 
 
 ---
 
-Difference Between Powertrain and Drivetrain
+**Difference Between Powertrain and Drivetrain**
 
-Powertrain	Drivetrain
+*Powertrain	Drivetrain*
 
 Includes battery and motor	Does not include battery and motor
 Controls and generates power	Only transfers power
@@ -95,7 +94,7 @@ Drivetrain is a part of the powertrain.
 
 ---
 
-Basic Energy Flow in EV
+**Basic Energy Flow in EV**
 
 Battery → Inverter → Motor → Drivetrain → Wheels
 
@@ -104,7 +103,7 @@ This shows how electrical energy is converted into motion.
 
 ---
 
-Future Scope
+**Future Scope**
 
 In future, this project can be improved by adding:
 

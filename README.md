@@ -12,9 +12,7 @@ About the Project
 The goal of this project is to help understand:
 
 What powertrain means in an EV ?
-
 What drivetrain means in an EV ?
-
 The difference between powertrain and drivetrain ?
 
 Basic components used in both systems 
@@ -25,11 +23,8 @@ Simple energy flow from battery to wheels
 This project is useful for:
 
 Engineering students
-
 EV beginners
-
 Technical interview preparation
-
 Academic mini projects
 
 here are given below 👇 about things mentioned above 

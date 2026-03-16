@@ -16,7 +16,6 @@ What drivetrain means in an EV ?
 The difference between powertrain and drivetrain ?
 
 Basic components used in both systems 
-
 Simple energy flow from battery to wheels
 
 
@@ -36,13 +35,9 @@ here are given below 👇 about things mentioned above
 The powertrain is the system that produces and controls power and sends it to the wheels.
 
 Basic components of EV powertrain:
-
 Battery pack
-
 Battery Management System (BMS)
-
 Inverter (Power electronics controller)
-
 Electric motor
 
 Transmission (if used)
@@ -60,11 +55,8 @@ The drivetrain is the system that transfers mechanical power from the motor to t
 Basic components of EV drivetrain:
 
 Shaft
-
 Differential
-
 Axle
-
 Wheels
 
 
